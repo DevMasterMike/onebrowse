@@ -155,7 +155,7 @@ def landing(app_store_url):
 <section class="hero"><div class="wrap">
   <div class="pill">Free · No ads · No subscriptions</div>
   <h1>Your sites. <span>Zero pop&#8209;ups.</span></h1>
-  <p class="lead">OneBrowse is a browser for the one or two sites you actually use: the streaming, sports and recipe sites that fight you on a phone. Pin a site, tap its button, and everything it throws at you — pop-ups, redirects, overlays, cookie walls — is stopped before you see it.</p>
+  <p class="lead">OneBrowse is a browser for the one or two sites you actually use: the news, sports and recipe sites that fight you on a phone. Pin a site, tap its button, and everything it throws at you — pop-ups, redirects, overlays, cookie walls — is stopped before you see it.</p>
   <a class="cta" href="{html.escape(app_store_url)}">Download on the App Store</a>
   <div class="gallery"><div class="gallery-inner">{frames}</div></div>
 </div></section>
